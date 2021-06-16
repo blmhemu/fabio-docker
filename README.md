@@ -1,6 +1,6 @@
 # fabio-docker
 
-Official fabio team provides only amd64 docker images (as of june 2021). This build provides images for arm64 and arm along with amd64 for convenience.
+The official fabio team provides only amd64 docker images (as of june 2021). This (unoffical) build provides images for arm64 and arm along with amd64 for convenience.
 
 
 ```
